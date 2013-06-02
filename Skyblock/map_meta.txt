@@ -1,0 +1,6 @@
+chunksize = 5
+mg_flags = 
+mg_name = singlenode
+seed = 2327608754105046107
+water_level = 1
+[end_of_params]
