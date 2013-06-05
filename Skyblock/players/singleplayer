@@ -1,9 +1,9 @@
 hp = 20
 name = singleplayer
-pitch = 2.66
-position = (20.54,15,0.61)
+pitch = 31.66
+position = (20.57,15,-1.64)
 version = 1
-yaw = -41.73
+yaw = 0.47
 PlayerArgsEnd
 List main 32
 Width 0
